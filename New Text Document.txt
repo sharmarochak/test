@@ -1,7 +1,4 @@
 test2
 test3
-<<<<<<< HEAD
-test 5
-=======
 test 4
->>>>>>> branch 'sharmarochak-patch-1' of https://github.com/sharmarochak/test.git
+test 5
